@@ -30,6 +30,9 @@ while fline :
 f.close()
 g.close()
 
+#Run bedtools to remove sites that overlap those masked by RepeatMasker.
+bedtools intersect -a bed-out.txt -b repeatmasker38 -v > no_overlaps.bed
+
 
 import random
 import numpy as np
