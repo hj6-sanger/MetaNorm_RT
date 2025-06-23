@@ -33,25 +33,35 @@ g.close()
 #Run bedtools to remove sites that overlap those masked by RepeatMasker.
 bedtools intersect -a bed-out.txt -b repeatmasker38 -v > no_overlaps.bed
 
+#Annotate replication timing using bedtools
+bedtools intersect -a no_overlaps.bed -b replication_timing.bed > intersect.txt
 
+
+#Simulation
 import random
 import numpy as np
-f=open('dup_intersect_repeatmasker.txt')
+f=open('intersect.txt')
 fline = f.readline()
 a=[]
+dup=set()
 while fline :
         fline = fline.strip()
         fso = fline.split('\t')
-        a.append(float(fso[7]))
+        tmp = fso[0]+'@' + fso[1]+'@' + fso[2]
+        if tmp not in dup :        
+                dup.add(tmp)
+                #"a" array stores replication timing data
+                a.append(float(fso[7]))
         fline = f.readline()
 f.close()
 
-b=random.sample(a,1403)
 g=open('simul_out.txt','w')
 
 i=1
 while i < 10000 :
+        #randomly pick 1,403 positions
         b=random.sample(a,1403)
+        # Write the average of the replication timing data of the selected positions 
         g.write(str(np.mean(b)) + '\n')
         i=i+1
 g.close()
