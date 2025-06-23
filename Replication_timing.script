@@ -10,8 +10,25 @@
 library(Biostrings)
 library(BSgenome.Hsapiens.UCSC.hg38)
 
+#running matchPWM with the PWM with default settings
+m <- matchPWM(pwm, Hsapiens)
+write.table(m,"out.txt",sep="\t")
 
+#Read the output from matchPWM and convert the output to bed format to run "bedtools". 
 
+f=open('out.txt')
+g=open('bed-out.txt','w')
+
+fline = f.readline()
+fline = f.readline()
+while fline :
+        fline = fline.strip()
+        fline = fline.replace('"','')
+        fso = fline.split('\t')
+        g.write(fso[1] + '\t' + fso[2] + '\t' + fso[3] + '\t' + fso[5] + '\n')
+        fline = f.readline()
+f.close()
+g.close()
 
 
 import random
