@@ -12,3 +12,9 @@ theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 ggplot(t1, aes(x=age, y=count)) + geom_point() + geom_smooth(method=lm) +scale_y_log10()  +
 theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
 
+#R code to assess an association between age and the number of retrotranspositions
+#Age (in years) and donor ID were set as fixed and random effects, respectively, while adjusting for sequencing coverage
+t1=read.table('age_coverage.txt',sep='\t',header=TRUE)
+lmm.sbs.age <- glm.nb(count~ age+cov + (1|donor), data = t1)
+summary(lmm.sbs.age)
+
