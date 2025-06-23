@@ -1,0 +1,125 @@
+age	donor	sample	tissue_type	crypt/gland_annotaiton
+38	2158101	PD43853d_lo0004	Lynch/colon	Normal
+38	2158101	PD43853d_lo0010	Lynch/colon	Normal
+38	2158101	PD43853e_lo0007	Lynch/colon	Normal
+38	2158101	PD43853e_lo0009	Lynch/colon	Normal
+38	2158101	PD43853e_lo0010	Lynch/colon	Normal
+63	2163091	PD45539c_lo0001	Lynch/colon	Specific morphologies
+63	2163091	PD45539c_lo0003	Lynch/colon	Specific morphologies
+63	2163091	PD45539c_lo0004	Lynch/colon	Specific morphologies
+63	2163091	PD45539c_lo0007	Lynch/colon	Normal
+63	2163091	PD45539c_lo0010	Lynch/colon	Normal
+63	2163091	PD45539c_lo0011	Lynch/colon	Normal
+63	2163091	PD45539e_lo0002	Lynch/colon	Normal
+63	2163091	PD45539e_lo0005	Lynch/colon	Normal
+63	2163091	PD45539e_lo0006	Lynch/colon	Normal
+63	2163091	PD45539g_lo0002	Lynch/colon	Specific morphologies
+63	2163091	PD45539g_lo0003	Lynch/colon	Specific morphologies
+63	2163091	PD45539g_lo0004	Lynch/colon	Normal
+63	2163091	PD45539g_lo0008	Lynch/colon	Specific morphologies
+63	2163091	PD45539g_lo0009	Lynch/colon	Normal
+63	2163091	PD45539g_lo0012	Lynch/colon	Normal
+63	2163091	PD45539h_lo0001	Lynch/colon	Normal
+63	2163091	PD45539h_lo0002	Lynch/colon	Specific morphologies
+63	2163091	PD45539h_lo0003	Lynch/colon	Specific morphologies
+63	2163091	PD45539h_lo0004	Lynch/colon	Specific morphologies
+63	2163091	PD45539h_lo0007	Lynch/colon	Specific morphologies
+63	2163091	PD45539h_lo0008	Lynch/colon	Specific morphologies
+63	2163091	PD45539h_lo0009	Lynch/colon	Normal
+63	2163091	PD45539h_lo0010	Lynch/colon	Normal
+34	2164708	PD46174c_lo0002	Lynch/colon	Normal
+34	2164708	PD46174c_lo0005	Lynch/colon	Specific morphologies
+34	2164708	PD46174c_lo0011	Lynch/colon	Specific morphologies
+34	2164708	PD46174c_lo0012	Lynch/colon	Normal
+34	2164708	PD46174c_lo0016	Lynch/colon	Specific morphologies
+34	2164708	PD46174c_lo0019	Lynch/colon	Normal
+34	2164708	PD46174c_lo0020	Lynch/colon	Specific morphologies
+34	2164708	PD46174c_lo0021	Lynch/colon	Specific morphologies
+34	2164708	PD46174c_lo0022	Lynch/colon	Specific morphologies
+34	2164708	PD46174c_lo0025	Lynch/colon	Specific morphologies
+34	2164708	PD46174a_lo0030	Lynch/colon	Tumour edge
+34	2164708	PD46174a_lo0036	Lynch/colon	Tumour edge
+34	2164708	PD46174a_lo0059	Lynch/colon	Tumour edge
+28	2164709	PD46175c_lo0003	Lynch/colon	Normal
+28	2164709	PD46175c_lo0010	Lynch/colon	Normal
+28	2164709	PD46175c_lo0020	Lynch/colon	Normal
+28	2164709	PD46175a_lo0054	Lynch/colon	Specific morphologies
+28	2164709	PD46175a_lo0055	Lynch/colon	Specific morphologies
+28	2164709	PD46175a_lo0062	Lynch/colon	Tumour edge
+28	2164709	PD46175a_lo0064	Lynch/colon	Tumour edge
+24	2164710	PD46176c_lo0001	Lynch/colon	Normal
+24	2164710	PD46176c_lo0006	Lynch/colon	Specific morphologies
+24	2164710	PD46176c_lo0007	Lynch/colon	Specific morphologies
+24	2164710	PD46176c_lo0009	Lynch/colon	Normal
+24	2164710	PD46176c_lo0010	Lynch/colon	Normal
+24	2164710	PD46176c_lo0018	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0001	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0002	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0006	Lynch/colon	Normal
+23	2164711	PD46177c_lo0010	Lynch/colon	Normal
+23	2164711	PD46177c_lo0013	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0014	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0016	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0017	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0025	Lynch/colon	Normal
+23	2164711	PD46177c_lo0027	Lynch/colon	Specific morphologies
+23	2164711	PD46177c_lo0028	Lynch/colon	Specific morphologies
+78	2164712	PD46178c_lo0001	Lynch/colon	Normal
+78	2164712	PD46178c_lo0007	Lynch/colon	Specific morphologies
+78	2164712	PD46178c_lo0008	Lynch/colon	Specific morphologies
+78	2164712	PD46178c_lo0010	Lynch/colon	Specific morphologies
+78	2164712	PD46178c_lo0013	Lynch/colon	Specific morphologies
+78	2164712	PD46178c_lo0017	Lynch/colon	Normal
+78	2164712	PD46178c_lo0021	Lynch/colon	Specific morphologies
+78	2164712	PD46178c_lo0024	Lynch/colon	Normal
+78	2164712	PD46178c_lo0027	Lynch/colon	Normal
+30	2164713	PD46179c_lo0001	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0003	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0004	Lynch/colon	Normal
+30	2164713	PD46179c_lo0006	Lynch/colon	Normal
+30	2164713	PD46179c_lo0007	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0008	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0011	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0012	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0014	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0015	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0016	Lynch/colon	Normal
+30	2164713	PD46179c_lo0019	Lynch/colon	Specific morphologies
+30	2164713	PD46179c_lo0020	Lynch/colon	Normal
+30	2164713	PD46179a_lo0011	Lynch/colon	Specific morphologies
+30	2164713	PD46179a_lo0014	Lynch/colon	Specific morphologies
+30	2164713	PD46179a_lo0022	Lynch/colon	Specific morphologies
+30	2164713	PD46179a_lo0023	Lynch/colon	Specific morphologies
+30	2164713	PD46179a_lo0025	Lynch/colon	Specific morphologies
+30	2164713	PD46179a_lo0054	Lynch/colon	MMR-d
+38	2158101	PD43853b_lo0020	Lynch/small_bowel	Normal
+38	2158101	PD43853b_lo0021	Lynch/small_bowel	Normal
+38	2158101	PD43853b_lo0022	Lynch/small_bowel	Normal
+38	2158101	PD43853b_lo0023	Lynch/small_bowel	Normal
+38	2158101	PD43853b_lo0024	Lynch/small_bowel	Normal
+38	2158101	PD43853b_lo0025	Lynch/small_bowel	Normal
+38	2158101	PD43853c_lo0016	Lynch/small_bowel	Normal
+38	2158101	PD43853c_lo0017	Lynch/small_bowel	Normal
+38	2158101	PD43853c_lo0018	Lynch/small_bowel	Normal
+38	2158101	PD43853c_lo0019	Lynch/small_bowel	Normal
+38	2158101	PD43853c_lo0020	Lynch/small_bowel	Normal
+63	2163091	PD45539b_lo0009	Lynch/small_bowel	Normal
+63	2163091	PD45539b_lo0010	Lynch/small_bowel	Normal
+63	2163091	PD45539b_lo0011	Lynch/small_bowel	Normal
+55	2163092	PD45540b_lo0005	Lynch/stomach	IM
+55	2163092	PD45540b_lo0006	Lynch/stomach	IM
+55	2163092	PD45540b_lo0007	Lynch/stomach	IM
+55	2163092	PD45540b_lo0010	Lynch/stomach	IM
+55	2163092	PD45540b_lo0013	Lynch/stomach	Normal
+55	2163092	PD45540b_lo0014	Lynch/stomach	Normal
+55	2163092	PD45540b_lo0016	Lynch/stomach	IM
+55	2163092	PD45540b_lo0017	Lynch/stomach	IM
+55	2163092	PD45540b_lo0021	Lynch/stomach	IM
+55	2163092	PD45540c_lo0001	Lynch/stomach	IM
+55	2163092	PD45540c_lo0003	Lynch/stomach	IM
+55	2163092	PD45540c_lo0005	Lynch/stomach	IM
+55	2163092	PD45540c_lo0007	Lynch/stomach	Normal
+55	2163092	PD45540c_lo0008	Lynch/stomach	IM
+55	2163092	PD45540c_lo0009	Lynch/stomach	IM
+55	2163092	PD45540c_lo0010	Lynch/stomach	Normal
+55	2163092	PD45540c_lo0011	Lynch/stomach	Normal
