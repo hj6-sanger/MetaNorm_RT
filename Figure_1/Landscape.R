@@ -1,1 +1,1 @@
-
+ggplot(t1, aes(fill=factor(type), y=Y, x=X)) + geom_bar(position="fill", stat="identity")+scale_fill_manual(values=c("#CCCCCC","#FFCC00","#FF6633", "#CC3333","#660033"))+theme_bw() + theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
