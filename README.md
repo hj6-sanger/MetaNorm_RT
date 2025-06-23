@@ -1,4 +1,4 @@
-# Analysis of de novo SVs in Genomics England
+# Analysis of somatic retrotranspositions in the MetaNorm project
 
 Welcome to this site for GEL-SV This site will serve as a source code repository for analyzing GEL-SV data. 
 
