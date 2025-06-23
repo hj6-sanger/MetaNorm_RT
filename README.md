@@ -7,6 +7,4 @@ Here, we analyzed 9,829 non-neoplastic samples of whole-genome sequencing (WGS) 
 # Codes
 
 
-1. "/Analysis/" contains scripts for analyzing age with dnSVs, phasing analysis, timing of triplications from maternal origin, and analyzing genomic properties.
-
-2. "/Filtering/" contains scripts for filtering out SVs.
+1. The code to generate a phylogenetic tree can be found at https://github.com/nataliabrz/liver_ndp_tree_building.
