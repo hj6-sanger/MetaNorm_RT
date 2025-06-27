@@ -13,5 +13,5 @@ Here, we analyzed 9,829 non-neoplastic samples of whole-genome sequencing (WGS) 
 4. insertion_structure.R code was utilized to plot Fig. 4a (the fraction of full-length L1 insertion) and Fig. 4b (the distribution of counts per cell lineage foe each L1 source element). 
 5. Replication_timing.pipeline contains R and python codes to analyze somatic retrotranspositions concerning replication timing.
 
-# Codes
+# data
 This folder contains sequencing coverage and metadata such as age, inflammed status, and crypt classification.
