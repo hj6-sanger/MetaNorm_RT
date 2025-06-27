@@ -322,7 +322,7 @@ age	donor	sample	cohort	Inflamed_status
 59	2152453	P1B5_1	IBD	Never_Inflamed
 59	2152453	P1B5_2	IBD	Never_Inflamed
 37	2157754	P37B1_10	IBD	Prev_Inflamed
-37	2157754	P37B1_13	IBD	Previously_Inflamed
+37	2157754	P37B1_13	IBD	Prev_Inflamed
 37	2157754	P37B1_1	IBD	Prev_Inflamed
 37	2157754	P37B1_2	IBD	Prev_Inflamed
 37	2157754	P37B1_4	IBD	Prev_Inflamed
